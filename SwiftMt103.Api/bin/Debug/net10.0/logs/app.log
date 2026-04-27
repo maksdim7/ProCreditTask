@@ -1,0 +1,57 @@
+2026-04-27 19:31:10.4353|Info|Now listening on: http://localhost:5278 
+2026-04-27 19:31:10.4551|Info|Application started. Press Ctrl+C to shut down. 
+2026-04-27 19:31:10.4551|Info|Hosting environment: Development 
+2026-04-27 19:31:10.4551|Info|Content root path: C:\Users\Maxim\Desktop\procredit\SwiftMt103.Api 
+2026-04-27 19:31:20.3850|Info|Request starting HTTP/1.1 GET http://localhost:5278/swagger/index.html - - - 
+2026-04-27 19:31:20.5176|Info|Request finished HTTP/1.1 GET http://localhost:5278/swagger/index.html - 200 - text/html;charset=utf-8 136.9929ms 
+2026-04-27 19:31:20.6226|Info|Request starting HTTP/1.1 GET http://localhost:5278/swagger/v1/swagger.json - - - 
+2026-04-27 19:31:20.6322|Info|No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts 
+2026-04-27 19:31:20.6901|Info|Request finished HTTP/1.1 GET http://localhost:5278/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 67.4773ms 
+2026-04-27 19:31:30.6220|Info|Request starting HTTP/1.1 POST http://localhost:5278/api/swift-messages/upload - multipart/form-data;+boundary=----WebKitFormBoundary1qHvmzZwyZIHuc3b 653 
+2026-04-27 19:31:30.6268|Info|Executing endpoint 'HTTP: POST /api/swift-messages/upload' 
+2026-04-27 19:31:30.6268|Info|File uploaded: EXAMPLE.txt 
+2026-04-27 19:31:30.6268|Info|Parsed transaction reference: 160216270075956 
+2026-04-27 19:31:30.6519|Info|Message saved to database 
+2026-04-27 19:31:30.6573|Info|Setting HTTP status code 200. 
+2026-04-27 19:31:30.6573|Info|Writing value of type '<>f__AnonymousType0`2' as Json. 
+2026-04-27 19:31:30.6573|Info|Executed endpoint 'HTTP: POST /api/swift-messages/upload' 
+2026-04-27 19:31:30.6573|Info|Request finished HTTP/1.1 POST http://localhost:5278/api/swift-messages/upload - 200 - application/json;+charset=utf-8 43.1307ms 
+2026-04-27 19:32:14.5555|Info|Request starting HTTP/1.1 GET http://localhost:5278/api/swift-messages - - - 
+2026-04-27 19:32:14.5555|Info|Executing endpoint 'HTTP: GET /api/swift-messages' 
+2026-04-27 19:32:14.5555|Info|Setting HTTP status code 200. 
+2026-04-27 19:32:14.5555|Info|Writing value of type 'List`1' as Json. 
+2026-04-27 19:32:14.5681|Info|Executed endpoint 'HTTP: GET /api/swift-messages' 
+2026-04-27 19:32:14.5681|Info|Request finished HTTP/1.1 GET http://localhost:5278/api/swift-messages - 200 - application/json;+charset=utf-8 12.8178ms 
+2026-04-27 19:33:59.7882|Info|Application is shutting down... 
+2026-04-27 19:34:28.5987|Info|Now listening on: http://localhost:5278 
+2026-04-27 19:34:28.6102|Info|Application started. Press Ctrl+C to shut down. 
+2026-04-27 19:34:28.6102|Info|Hosting environment: Development 
+2026-04-27 19:34:28.6102|Info|Content root path: C:\Users\Maxim\Desktop\procredit\SwiftMt103.Api 
+2026-04-27 19:34:35.2894|Info|Request starting HTTP/1.1 GET http://localhost:5278/swagger/index.html - - - 
+2026-04-27 19:34:35.4062|Info|Request finished HTTP/1.1 GET http://localhost:5278/swagger/index.html - 200 - text/html;charset=utf-8 120.0606ms 
+2026-04-27 19:34:35.5141|Info|Request starting HTTP/1.1 GET http://localhost:5278/swagger/v1/swagger.json - - - 
+2026-04-27 19:34:35.5240|Info|No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts 
+2026-04-27 19:34:35.5968|Info|Request finished HTTP/1.1 GET http://localhost:5278/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 82.6017ms 
+2026-04-27 19:34:43.1235|Info|Request starting HTTP/1.1 POST http://localhost:5278/api/swift-messages/upload - multipart/form-data;+boundary=----WebKitFormBoundaryBUByzuaDjxg3le4p 653 
+2026-04-27 19:34:43.1265|Info|Executing endpoint 'HTTP: POST /api/swift-messages/upload' 
+2026-04-27 19:34:43.1265|Info|File uploaded: EXAMPLE.txt 
+2026-04-27 19:34:43.1400|Info|Parsed transaction reference: 160216270075956 
+2026-04-27 19:34:43.1400|Info|Message saved to database 
+2026-04-27 19:34:43.1400|Info|Setting HTTP status code 200. 
+2026-04-27 19:34:43.1633|Info|Writing value of type '<>f__AnonymousType0`2' as Json. 
+2026-04-27 19:34:43.1633|Info|Executed endpoint 'HTTP: POST /api/swift-messages/upload' 
+2026-04-27 19:34:43.1633|Info|Request finished HTTP/1.1 POST http://localhost:5278/api/swift-messages/upload - 200 - application/json;+charset=utf-8 43.6196ms 
+2026-04-27 19:36:07.8845|Info|Request starting HTTP/1.1 GET http://localhost:5278/swagger/index.html - - - 
+2026-04-27 19:36:07.8845|Info|Request finished HTTP/1.1 GET http://localhost:5278/swagger/index.html - 200 - text/html;charset=utf-8 1.5451ms 
+2026-04-27 19:36:07.9824|Info|Request starting HTTP/1.1 GET http://localhost:5278/swagger/v1/swagger.json - - - 
+2026-04-27 19:36:07.9858|Info|Request finished HTTP/1.1 GET http://localhost:5278/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 3.3868ms 
+2026-04-27 19:36:17.0026|Info|Request starting HTTP/1.1 POST http://localhost:5278/api/swift-messages/upload - multipart/form-data;+boundary=----WebKitFormBoundaryFF1diI46adOa1zTk 653 
+2026-04-27 19:36:17.0026|Info|Executing endpoint 'HTTP: POST /api/swift-messages/upload' 
+2026-04-27 19:36:17.0026|Info|File uploaded: EXAMPLE.txt 
+2026-04-27 19:36:17.0026|Info|Parsed transaction reference: 160216270075956 
+2026-04-27 19:36:17.0026|Info|Message saved to database 
+2026-04-27 19:36:17.0026|Info|Setting HTTP status code 200. 
+2026-04-27 19:36:17.0026|Info|Writing value of type '<>f__AnonymousType0`2' as Json. 
+2026-04-27 19:36:17.0026|Info|Executed endpoint 'HTTP: POST /api/swift-messages/upload' 
+2026-04-27 19:36:17.0026|Info|Request finished HTTP/1.1 POST http://localhost:5278/api/swift-messages/upload - 200 - application/json;+charset=utf-8 10.4183ms 
+2026-04-27 19:38:12.5790|Info|Application is shutting down... 

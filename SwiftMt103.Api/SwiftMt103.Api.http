@@ -1,0 +1,6 @@
+@SwiftMt103.Api_HostAddress = http://localhost:5278
+
+GET {{SwiftMt103.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
