@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SwiftMt103.Api.props" />
-</Project>
